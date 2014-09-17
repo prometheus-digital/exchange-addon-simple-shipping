@@ -1,6 +1,6 @@
 [submodule "lib/classes"]
 	path = lib/classes
-	url = git@git.gaarai.com:classes
+	url = git@bitbucket.org:ithemes/classes
 [submodule "lib/updater"]
 	path = lib/updater
-	url = git@git.gaarai.com:updater
+	url = git@bitbucket.org:ithemes/updater
